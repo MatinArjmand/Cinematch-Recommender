@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CineMatch is a conceptual movie recommender system designed to predict movies that a user might like based on their past ratings. Unlike many contemporary systems that rely on complex, black-box machine learning libraries, CineMatch is built from the ground up using fundamental tools and concepts from linear algebra.
+CineMatch is a conceptual movie recommender system, designed to predict movies that a user might like based on their past ratings. Unlike many contemporary systems that rely on complex, black-box machine learning libraries, CineMatch is built from the ground up using fundamental tools and concepts from linear algebra.
 
 The primary goal of this project is to provide a clear and tangible demonstration of how mathematical principles, specifically matrix factorization, can be applied to solve real-world problems like building a personalized recommendation engine.
 
